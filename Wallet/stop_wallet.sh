@@ -8,7 +8,7 @@
 #
 ###############################################################################
 
-DIR="/opt/EOSmainNet/Wallet"
+DIR="/data/EOSmainNet/Wallet"
 
     if [ -f $DIR"/wallet.pid" ]; then
         pid=$(cat $DIR"/wallet.pid")

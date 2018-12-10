@@ -56,11 +56,11 @@ git submodule update --init --recursive
 ## Configuring Node
 - Create data-dir folder for you node:
   ```
-  mkdir /opt/EOSmainNet 
+  mkdir /data/EOSmainNet 
   ```
 - Clone all files from this repo:
   ```
-  cd /opt/EOSmainNet
+  cd /data/EOSmainNet
   git clone https://github.com/CryptoLions/EOS-MainNet.git ./ 
   ```   
 - add execution rights  

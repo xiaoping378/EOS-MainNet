@@ -8,7 +8,7 @@
 #
 ###############################################################################
 
-DATADIR="/opt/EOSmainNet"
+DATADIR="/data/EOSmainNet"
 NODEOSBINDIR="/home/eos-sources/eos/build/programs"
 
 
