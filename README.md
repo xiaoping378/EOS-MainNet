@@ -61,7 +61,7 @@ git submodule update --init --recursive
 - Clone all files from this repo:
   ```
   cd /data/EOSmainNet
-  git clone https://github.com/CryptoLions/EOS-MainNet.git ./ 
+  git clone https://github.com/xiaoping378/EOS-MainNet.git ./ 
   ```   
 - add execution rights  
   ```
